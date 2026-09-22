@@ -1,0 +1,53 @@
+# Python
+
+**pycache**/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+
+.venv/
+venv/
+
+# IDE / Editor
+
+.vscode/
+.idea/
+
+# OS
+
+Thumbs.db
+.DS_Store
+
+# Logs
+
+*.log
+
+# SQLite
+
+data/*.db
+data/*.sqlite
+data/*.sqlite3
+
+# Temporary files
+
+*.tmp
+*.bak
+
+# Test / cache
+
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Environment variables
+
+.env
+.env.*
+
+# Build / distribution
+
+build/
+dist/
+*.egg-info/
