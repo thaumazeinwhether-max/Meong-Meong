@@ -1,6 +1,6 @@
-# Python
+﻿# Python
 
-**pycache**/
+__pycache__/
 *.py[cod]
 *.pyo
 *.pyd
@@ -40,6 +40,7 @@ data/*.sqlite3
 .pytest_cache/
 .coverage
 htmlcov/
+data/animation_review/
 
 # Environment variables
 

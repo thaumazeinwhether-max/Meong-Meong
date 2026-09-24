@@ -1,0 +1,2 @@
+"""Meong Meong! game package."""
+
